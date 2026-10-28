@@ -19,7 +19,6 @@ An automated multi-agent workflow built using **CrewAI**, **AgentOps**, **Tavily
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Abdallahelbaz/Storey-AI-Agent.git
-cd your-repository-name
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
