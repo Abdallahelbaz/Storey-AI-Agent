@@ -1,0 +1,5 @@
+crewai[tools,agentops]
+agentops
+pydantic
+tavily-python
+scrapegraph-py
